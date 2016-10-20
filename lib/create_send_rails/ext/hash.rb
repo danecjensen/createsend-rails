@@ -13,4 +13,4 @@ module CreateSendRails
   end
 end
 
-Hash.include(CreateSendRails::Hash)
+# Hash.include(CreateSendRails::Hash)
